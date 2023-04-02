@@ -21,4 +21,6 @@ int main()
     {
         printf("trip cancel");
     }
+
+    return 0;
 }
